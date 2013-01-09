@@ -17,7 +17,7 @@
 		<!-- Resources -->
 		<link rel="stylesheet" type="text/css" href="/path/to/NewsSlider.css" media="all"/>
         <script type="text/javascript" src="/path/to/jquery.min.js"></script>
-		<script type="text/javascript" src="/path/to/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="/path/to/jquery.easing.js"></script>
         <script type="text/javascript">
 		var j = jQuery.noConflict();
 
