@@ -15,9 +15,8 @@
 
 
 		<!-- Resources -->
-		<link rel="stylesheet" type="text/css" href="/path/to/NewsSlider.css" media="all"/>
-        <script type="text/javascript" src="/path/to/jquery.min.js"></script>
-		<script type="text/javascript" src="/path/to/jquery.easing.js"></script>
+		<link rel="stylesheet" type="text/css" href="/rest/jcr/repository/collaboration/sites/shared/css/NewsSlider.css" media="all"/>
+		<script type="text/javascript" src="/rest/jcr/repository/collaboration/sites/shared/js/jquery.easing.js"></script>
         <script type="text/javascript">
 		var j = jQuery.noConflict();
 
